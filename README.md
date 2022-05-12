@@ -1,7 +1,7 @@
-<h1>Projeto de testes Unitários com JUnit, TDD e Mockito em JAVA</h1>
+<h1>Projeto de testes unitários com JUnit e TDD em JAVA</h1>
 
 <h3>Objetivo</h3>
-Projeto de testes unitários com JUnit e TDD em JAVA, realizado pelo professor "Francisco Wagner Costa Aquino” do curso “Testes unitários em JAVA: Domine JUnit, Mockito e TDD
+Projeto de testes unitários, realizado pelo professor "Francisco Wagner Costa Aquino” do curso “Testes unitários em JAVA: Domine JUnit, Mockito e TDD
 ” da plataforma de ensino UDEMY, como intuito de praticar os conceitos passados enquanto se decorre o curso. <strong>Assuntos alcançados no projeto:</strong><br>
 
 <br>• Linguagem de programação Java<br>
